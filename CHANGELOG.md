@@ -1,5 +1,75 @@
 # Changelog
 
+## v1.0.0 — 2026-05-31（🎉 月底 milestone：框架穩定，5 月完整實證）
+
+從 2026-04-21 Day 1 mega-viral 開始，**41 天 / 25 個 case / 32 條規則 / 4 個 Mode / 14 個 release** — 整套框架穩定，ship v1.0.0 標記。
+
+### 📊 5 月底完整數據
+
+**Hao Brand 戰績**：
+- **Day 1 4/21 → 5/31**：FB 主帳號 ~4,200 → ~4,500 追蹤者
+- **Line 群**：800 → 4,568+（**+3,768 / 41 天 = 92/day average**）
+- **Discord**：6,930+（雙 funnel 累積 1.15 萬+）
+- **FB 內容營利**：已啟動 $0.78+ 累積（v0.8.6 後）
+- **Thread 副帳號**：~10K+ 追蹤（25/7 起累積）
+
+### 🎯 v1.0.0 框架完整覆蓋
+
+**4 個 Mode**：
+- Mode A 日常（鐵粉黏著）
+- Mode B 純血 F6b / F15 mini（擴散 + Line 群）
+- **Mode C 深度反思 8 變體**（F20/F21/F22/F23/F24/F25a/b/c）
+- Thread F19 立場宣言
+
+**R1-R32 規則系統**（R9/R21/R22 已廢除標記）：
+- R1-R7 核心節奏 + 評估
+- R8-R14 Mode B 純血生成規則
+- R15-R19 2026 演算法新信號
+- R20-R24 漸進改進 + 連發累積
+- R25 🚨 無 URL 硬規則
+- R26-R29 Mode C 規則
+- R30 社團 cross-post（留言 137x）
+- R31 trust reset
+- R32 集體 framing broke 鐵粉圈
+
+**Viral 4 條件 + Readability 隱藏第 5**：結構 + voice + 新意圖 + 時段 + readability。
+
+### 📚 25 個 Case 完整實證庫
+
+Day 1-7（4/21-4/29）/ 5/5-5/12（v0.5-v0.8 演進）/ 5/16-5/19（F4→F19 進化 + R25 lock）/ 5/22-5/29（Mode C 5 變體實證 + 社團 cross-post + 集體 framing）。
+
+### 🤖 雙 repo 互修生態（v0.7.3 後）
+
+```
+claude-skill-social-post v1.0.0 ← cleanup-helper v0.2 audit
+claude-skill-code-cleanup v0.2 (8 dimensions: 4 cleanup + 4 audit)
+```
+
+每次 cleanup-helper 升級都會抓 social-post 新債 → 觸發新 release。
+
+### 🏆 5 月最強 case
+
+| 維度 | 紀錄 | 公式 |
+|---|---|---|
+| 觀眾峰值 | Day 1 75K | F6b promo |
+| Mode C 峰值 | 5/22 F23 一致性大戰 **10,022 觀眾 / 94.5% 非追蹤** | F23 行業洞察 |
+| 留言爆 | 5/22 同篇 cross-post 2 社團 = **956 留言** | R30 cross-post |
+| Thread mega | 25/7 三篇平均 150K 觸及 | F19 純血 |
+| Line 群轉化 | Day 1 +1,319 / 5/5 +1,239 | F6b 變體 D |
+
+### 🎯 v1.0.0 後路線（v1.x 框架補強）
+
+- v1.0.x：戰績累積 + 細節 patch（不增 archetype）
+- v1.1.0：跨平台拓展（IG / X / YouTube）
+- v1.2.0：英文版（拓展非中文受眾）
+- v2.0.0：另一個帳號 fork 實證（驗證可移植性）
+
+### 🙏 致謝
+
+Hao 41 天連續實戰 + 真實貼戰績訓練 + 多次校正 AI 過頭歸因 = 整套框架真實可複製，不是空中樓閣。
+
+---
+
 ## v0.9.3 — 2026-05-31（🌟 F25 集體願景型 3 變體 + R32 反個人主義 framing）
 
 5/26 + 5/28 + 5/29 三篇集體 framing 實證，Mode C 解鎖第 6-8 變體（F25a/b/c），完整 Mode C 8 變體地圖。
